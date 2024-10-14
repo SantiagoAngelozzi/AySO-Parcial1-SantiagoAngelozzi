@@ -1,0 +1,473 @@
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ll
+cd repogit/
+ll
+cd
+mkdir AySO-Parcial1-SantiagoAngelozzi
+cd AySO-Parcial1-SantiagoAngelozzi/
+cd
+rmdir AySO-Parcial1-SantiagoAngelozzi/
+mkdir repoParcial
+cd repoParcial/
+git clone git@github.com:SantiagoAngelozzi/AySO-Parcial1-SantiagoAngelozzi.git
+ll
+cd AySO-Parcial1-SantiagoAngelozzi/
+cd
+ll
+rmdir repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+repoParcial/
+cd repoParcial/
+LL
+ll
+cd
+rmdir -f repoParcial/
+rm -f repoParcial/
+rm -f repoParcial
+rmdir -f repoParcial
+rmdir repoParcial
+LL
+ll
+exit
+ll
+cd parcial1
+ll
+vim puntoa.sh
+chmod +x puntoa.sh
+./puntoa.sh 
+cd
+ll
+cd parcial1/
+ll
+cd Examenes-UTN/
+ll
+cd ..
+tree 
+apt --version
+apt install tree
+sudo apt update
+sudo apt install tree
+tree --version
+tree
+cd parcial1/
+tree
+rmdir Examenes-UTN/
+rm -r Examenes-UTN/
+tree
+cd
+./puntoa.sh 
+.parcial1/puntoa.sh 
+mkdir -p Examenes-UTN/{alumno_1/parcial_{1..3},alumno_2/parcial_{1..3},alumno_3/parcial_{1..3},profesores}
+ll
+cd repoParcial/
+cd AySO-Parcial1-SantiagoAngelozzi/
+cd
+cd parcial1/
+ll
+cd
+cp ~/parcial1/puntoa.sh ~/repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+cd repoParcial/
+cd AySO-Parcial1-SantiagoAngelozzi/
+ll
+cd
+cd repoParcial/
+CD AySO-Parcial1-SantiagoAngelozzi/
+cd AySO-Parcial1-SantiagoAngelozzi/
+git add
+cd ..
+git add
+git add .
+cd AySO-Parcial1-SantiagoAngelozzi/
+git add .
+git commit -m "ADD: agregado el punto A"
+git config --global user.email "santiagoangelozzi@gmail.com" git config --global user.name "SantiagoAngelozzi"
+git config --global user.email "santiagoangelozzi@gmail.com"
+git commit -m "ADD: agregado el punto A"
+git push
+cd
+exit
+mkdir /parcial1 && touch /parcial1/punto{a..f}.sh
+mkdir parcial1 && touch parcial1/punto{a..f}.sh
+ll
+cd parcial1/
+ll
+cd
+cd parcial1/
+ll
+vim puntoa.sh
+cd parcial1/
+mkdir -p Estructura_Asimetrica/correo Estructura_Asimetrica/clientes && touch Estructura_Asimetrica/correo/cartas{1..50} Estructura_Asimetrica/correo/carteros{1..10} Estructura_Asimetrica/clientes/cartas{1..50}
+ll
+cd Estructura_Asimetrica/
+tree
+cd ..
+rm -r Estructura_Asimetrica/
+ll
+mkdir Estructura_Asimetrica
+ll
+mkdir Estructura_Asimetrica/correo
+mkdir Estructura_Asimetrica/clientes
+tree
+for i in {1..50}; do     touch Estructura_Asimetrica/correo/cartas$i; done
+tree
+rm -r Estructura_Asimetrica/correo/*
+tree
+mkdir -p Estructura_Asimetrica/correo/cartas{1..50}
+tree
+rm -r Estructura_Asimetrica/correo/*
+mkdir -p Estructura_Asimetrica/correo/cartas{01..50}
+tree
+rm -r Estructura_Asimetrica/correo/*
+rm -r Estructura_Asimetrica/
+tree
+vim puntod.sh
+chmod +x puntod.sh 
+ll
+./puntod.sh 
+rm -r Estructura_Asimetrica/
+ll
+vim puntod.sh 
+./puntod.sh 
+rm -r Estructura_Asimetrica/
+ll
+vim puntod.sh 
+./puntod.sh 
+vim puntod.sh 
+clear
+dmidecode -t chassis
+sudo dmidecode -t chassis
+vim puntoe.sh 
+./puntoe.sh 
+sudo ./puntoe.sh 
+chmod +x puntoe.sh 
+ll
+./puntoe.sh 
+vim puntoe.sh 
+cd
+cd repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+vim README.md 
+cat README.md 
+git add .
+git commit -m "UPDATE: README.md"
+git push
+cd
+exit
+lsblk
+ll
+tree
+cd parcial1
+./puntoa.sh 
+tree
+cd ..
+rm -r Examenes-UTN/
+tree
+cd parcial1/
+cd puntoa.sh
+vim puntob.sh 
+chmod +x puntob.sh
+ll
+vim puntob.sh 
+./puntob.sh
+cd
+./puntob.sh
+.parcial1/puntob.sh
+./parcial1/puntob.sh 
+ll
+cd parcial1/
+vim puntob.sh 
+cd
+./parcial1/puntob.sh 
+sudo ./parcial1/puntob.sh 
+lsblk
+sudo fdisk -l /dev/sdc
+cd parcial1
+vim puntob.sh 
+cd
+sudo ./parcial1/puntob.sh 
+lsblk
+cd /dev
+ll
+cd /disk
+cd
+clear
+cd parcial1/
+vim puntob.sh 
+cd
+sudo ./parcial1/puntob.sh 
+cd parcial1/
+vim puntob.sh 
+cd
+sudo ./parcial1/puntob.sh 
+lsblk
+lsblk -f
+lsblk /dev/sdc
+cd parcial1/
+vim puntob.sh 
+cd
+repoParcial/
+cd repoParcial/
+ll
+cd AySO-Parcial1-SantiagoAngelozzi/
+ll
+vim puntoa.sh 
+cd
+./puntoa.sh 
+.parcial1/puntoa.sh 
+./parcial1/puntoa.sh 
+ll
+tree
+cd repoParcial/
+cd AySO-Parcial1-SantiagoAngelozzi/
+vim puntoa.sh 
+cd
+cd parcial1/
+ll
+rm -r Examenes-UTN/
+ll
+cd
+tree
+cp /parcial1/puntob.sh repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+cp parcial1/puntob.sh repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+cd repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+LL
+ll
+vim puntob.sh 
+git add
+git add .
+git commit -m "ADD: agregado el punto B"
+git push
+cd
+ll
+parcial1
+cd parcial1/
+cd
+man
+man man
+history
+clear
+ll
+rm -r Examenes-UTN/
+cd parcial1/
+ll
+./puntoa.sh 
+ll
+vim puntoc.sh 
+cat /etc/passwd
+cd parcial1/
+ll
+vim puntof.sh
+chmod +x puntof.sh 
+ll
+./puntof.sh 
+vim puntof.sh
+./puntof.sh 
+vim puntof.sh
+./puntof.sh 
+ll
+cat Filtro_Avanzado.txt 
+rm Filtro_Avanzado.txt 
+ll
+vim puntof.sh
+cat /etc/shadow | awk -F:
+cat /etc/shadow | awk -F: '{print $2}'
+
+vim puntof.sh
+./puntof.sh 
+ll
+cat Filtro_Avanzado.txt 
+cd
+exit
+ll
+cd parcial1/
+ll
+vim puntof.sh 
+cd
+./parcial1/puntof.sh 
+ll
+rm Filtro_Avanzado.txt 
+LL
+ll
+cd
+cd parcial1/
+vim puntof.sh 
+cd
+./parcial1/puntof.sh 
+ll
+cd parcial1/
+ll
+cat Filtro_Avanzado.txt 
+vim puntoc.sh 
+cd
+ll
+clear
+cd parcial1/
+vim puntoc.sh 
+cd
+cat /etc/passwd
+sudo useradd -m programadores
+sudo useradd -m tester
+sudo useradd -m analistas
+sudo useradd -m disenadores
+sudo groupadd grupoprogramadores
+sudo groupadd grupotester
+sudo groupadd grupoanalistas
+sudo groupadd grupodisenadores
+sudo usermod -aG grupoprogramadores programadores
+sudo usermod -aG grupotester tester
+sudo usermod -aG grupoanalistas analistas 
+sudo usermod -aG grupodisenadores disenadores 
+cd parcial1/
+tree
+rm Examenes-UTN/
+rm -r Examenes-UTN/
+ll
+cd
+./parcial1/puntoa.sh 
+sudo chown programadores:grupoprogramadores Examenes-UTN/alumno_1
+sudo chown tester:grupotester Examenes-UTN/alumno_2
+sudo chown analistas:grupoanalistas Examenes-UTN/alumno_3
+sudo chown disenadores:grupodisenadores Examenes-UTN/profesores
+sudo chmod 750 Examenes-UTN/alumno_1
+sudo chmod 760 Examenes-UTN/alumno_2
+sudo chmod 700 Examenes-UTN/alumno_3
+sudo chmod 775 Examenes-UTN/profesores
+cat /etc/passwd
+su -c "whoami > Examenes-UTN/alumno_1/validar.txt" programadores
+su -c "whoami > ~/parcial1/validar.txt" programadores
+sudo passwd programadores
+sudo passwd tester
+sudo passwd analistas
+sudo passwd disenadores 
+su -c "whoami > Examenes-UTN/alumno_1/validar.txt" programadores
+su -c "whoami > ~/parcial1/validar.txt" programadores
+sudosu -c "whoami > parcial1/validar.txt" programadores
+sudo su -c "whoami > Examenes-UTN/alumno_1/validar.txt" programadores
+sudo su -c "whoami > ~/parcial1/validar.txt" programadores
+sudo su -c "whoami > parcial1/validar.txt" programadores
+sudo su - programadores -c "whoami > /home/parcial1/validar.txt"
+sudo su -c "whoami > Examenes-UTN/alumno_1/validar.txt" programadores
+sudo su -c "whoami" > Examenes-UTN/alumno_1/validar.txt programadores
+su -c "whoami" > Examenes-UTN/alumno_1/validar.txt programadores
+su -c "whoami > Examenes-UTN/alumno_1/validar.txt" programadores
+ll
+cd Examenes-UTN/
+ll
+cd
+cd parcial1/
+vim puntoc.sh 
+cd
+sudo -u programadores whoami > Examenes-UTN/alumno_1/validar.txt
+sudo -u programadores whoami > parcial1/validar.txt
+sudo -u tester whoami > parcial1/validar.txt
+sudo -u analistas whoami > parcial1/validar.txt
+sudo -u disenadores whoami > parcial1/validar.txt
+cd parcial1/
+ll
+cat validar.txt 
+cd
+sudo -u programadores whoami > parcial1/validar.txt
+sudo -u tester whoami >> parcial1/validar.txt
+sudo -u analistas whoami >> parcial1/validar.txt
+sudo -u disenadores whoami >> parcial1/validar.txt
+cd parcial1/
+ll
+cat validar.txt 
+vim puntoc.sh 
+cat validar.txt 
+vim puntoc.sh 
+chmod +x puntoc.sh 
+ll
+cd
+cd Examenes-UTN/
+ll
+cd
+rm -rf Examenes-UTN/
+sudo rm -rf Examenes-UTN/
+ll
+cd parcial1/
+ll
+./puntoa.sh 
+ll
+Examenes-UTN/
+cd Examenes-UTN/
+ll
+cd
+sudo chown programadores:grupoprogramadores parcial1/Examenes-UTN/alumno_1
+sudo chown tester:grupotester parcial1/Examenes-UTN/alumno_2
+sudo chown analistas:grupoanalistas parcial1/Examenes-UTN/alumno_3
+sudo chown disenadores:grupodisenadores parcial1/Examenes-UTN/profesores
+sudo chmod 750 parcial1/Examenes-UTN/alumno_1
+sudo chmod 760 parcial1/Examenes-UTN/alumno_2
+sudo chmod 700 parcial1/Examenes-UTN/alumno_3
+sudo chmod 775 parcial1/Examenes-UTN/profesores
+cd parcial1/
+ll
+cd Examenes-UTN/
+ll
+cd
+cd parcial1/
+vim puntoc.sh 
+cd
+sudo -u programadores whoami > parcial1/Examenes-UTN/alumno_1/validar.txt
+su -c "whoami > /Examenes-UTN/alumno_1/validar.txt" programadores
+su -c "whoami > parcial1/Examenes-UTN/alumno_1/validar.txt" programadores
+sudo su -c "whoami > parcial1/Examenes-UTN/alumno_1/validar.txt" programadores
+sudo -u programadores whoam
+sudo -u programadores whoami > parcial1/validar.txt
+sudo -u tester whoami > parcial1/validar.txt
+sudo -u programadores whoami > parcial1/validar.txt
+sudo -u tester whoami >> parcial1/validar.txt
+sudo -u analistas whoami >> parcial1/validar.txt
+sudo -u disenadores whoami >> parcial1/validar.txt
+cd parcial1/
+ll
+cat validar.txt 
+vim puntoc.sh 
+clear
+vim puntoc.sh 
+cd Examenes-UTN/
+ll
+cd ..
+vim puntoc.sh 
+cat validar.txt 
+vim puntoc.sh 
+cd
+clear
+ll
+cd parcial1/
+ll
+cd
+cd repoParcial/
+LL
+ll
+cd AySO-Parcial1-SantiagoAngelozzi/
+
+cd
+histori
+history
+cd repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+LL
+ll
+vim puntoc.sh
+git add .
+git commit -m "ADD: agregado el punto C"
+cd
+cp ~/parcial1/puntod.sh ~/repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+cd repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+ll
+git add .
+git commit -m "ADD: agregado el punto D"
+cd
+cp ~/parcial1/puntoe.sh ~/repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+cd repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+ll
+git add .
+git commit -m "ADD: agregado el punto E"
+cd
+cp ~/parcial1/puntof.sh ~/repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+cd repoParcial/AySO-Parcial1-SantiagoAngelozzi/
+ll
+git add .
+git commit -m "ADD: agregado el punto F"
+cd
+history -a
